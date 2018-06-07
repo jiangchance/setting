@@ -10,4 +10,4 @@ postman
 fiddler
 xmind
 filezilla
-
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#kivy
